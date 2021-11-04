@@ -1,0 +1,13 @@
+M02 Base de dades
+M03 Programacio
+M05 Entorns de desenvolupament
+M06 Desenvolupament web en entorn client
+M07 Desenvolupament web en entorn servidor
+M08 Desplegament d'aplicacions web
+M09 Disseny d'interficies web
+M12 Pojecte Desenvolupament d'aplicacions web
+M15 Desenvolupament web en entorn mobil
+
+programacio
+Esto seria una segunda materia
+Otra linea al archivo
